@@ -11,3 +11,5 @@ who made changes and what.
 
 file
 gang
+
+git status using

@@ -3,13 +3,3 @@ version of file are saved.
 who made changes and what.
 .git - local repository
 
-
-
-
-...n
-
-
-file
-gang
-
-git status using
